@@ -7,7 +7,7 @@ Ce projet consiste en une base de données pour gérer des informations sur des 
 1. Clonez ce dépôt dans votre environnement local :
 
    ```bash
-   git clone [https://github.com/votre-utilisateur/base-de-donnees-films.git](https://github.com/simplon-lille-csharp-dotnet/streaming](https://github.com/kalilou-marong/streaming-bdd)
+   git clone https://github.com/kalilou-marong/streaming-bdd
 
 2. Importez le schéma de base de données dans votre système de gestion de base de données (SGBD). Assurez-vous que votre SGBD est en cours d'exécution.
 
